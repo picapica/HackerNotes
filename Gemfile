@@ -43,3 +43,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem "actionview", ">= 5.2.2.1"
+gem "railties", ">= 5.2.2.1"
